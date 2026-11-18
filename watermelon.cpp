@@ -9,6 +9,12 @@ int main(){
     else 
    std::cout<<"no"<<std::endl;
 
+int y;
+for(int y = 1 ; y <= 1000;y++){
+    if(y % 6 == 0)
+    std::cout<<y<<std::endl;
+    std::cout
+}
     
     return 0;
 }
